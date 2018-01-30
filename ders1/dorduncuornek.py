@@ -1,0 +1,6 @@
+a = input("adınız")
+b = input("soyadınız")
+c = input("numaranız")
+print(a,end="\n")
+print(b,end="\n")
+print(c,end="\n")

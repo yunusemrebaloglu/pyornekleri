@@ -1,0 +1,5 @@
+boy = input("boyunuz")
+kilo = input("kilonuz")
+boy= int(boy)
+kilo = int(kilo)
+print("beden kitle indexsiniz {}".format(kilo/boy**2))
